@@ -1,3 +1,4 @@
 # Its_all_about_machine_learning
 
-! [cheatsheat](assets/cheatsheet.jpg)
+## ML cheatsheet
+![cheatsheat](https://github.com/ramesht007/Its_all_about_machine_learning/blob/master/cheatsheet.jpg?raw=true)
