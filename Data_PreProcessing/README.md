@@ -14,7 +14,7 @@ Data objects are described by a number of features, that capture the basic chara
 
 ### A feature is an individual measurable property or characteristic of a phenomenon being observed
 
-![data_preprocessing](data_preprocessing.jpg)
+![data_preprocessing](data_preprocessing_img1.jpg)
 
 
 Features can be:
@@ -49,4 +49,4 @@ It is a method used to standardize the range of independent variables or feature
 ### Why is it necessary? 
 A lot of machine learning models are based on Euclidean distance. If, for example, the values in one column (x) is much higher than the value in another column (y), (x2-x1) squared will give a far greater value than (y2-y1) squared. So clearly, one square difference dominates over the other square difference. In the machine learning equations, the square difference with the lower value in comparison to the far greater value will almost be treated as if it does not exist. We do not want that to happen. That is why it is necessary to transform all our variables into the same scale. 
 
-![data_preprocessing](data_preprocessingimg2.jpg)
+![data_preprocessing](data_preprocessing_img2.jpg)
