@@ -1,3 +1,15 @@
+"""
+I made use of the OpenAI Gym to provide the environment of 
+a simple game called Frozen Lake. Using Q-learning, 
+I then trained an agent to play the game along with the 
+visualization of how the agent does while being trained.
+The motivation is to learn and explore more about machine learning. 
+Reinforcement learning algorithms intrigue me a lot and so I found 
+myself implementing one.
+"""
+
+
+
 import numpy as np
 import gym
 import random
