@@ -5,6 +5,7 @@
 - K-Means Clustering
 - LinearRegressor
 - Neural Networks
+- Random Forest
 
 ## ML Algos
 ![cheatsheat](./assets/algos.png)
