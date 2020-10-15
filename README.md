@@ -2,6 +2,8 @@
 
 #### Please star the Repo, 😊🙏
 
+- K-Means Clustering
+
 ## ML Algos
 ![cheatsheat](./assets/algos.png)
 
