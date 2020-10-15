@@ -3,6 +3,7 @@
 #### Please star the Repo, 😊🙏
 
 - K-Means Clustering
+- LinearRegressor
 
 ## ML Algos
 ![cheatsheat](./assets/algos.png)
