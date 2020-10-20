@@ -2,10 +2,14 @@
 
 #### Please star the Repo, 😊🙏
 
+### List of Algorithms:
 - K-Means Clustering
 - LinearRegressor
 - Neural Networks
 - Random Forest
+
+### List of Pre-Processing Algorithms
+TODO:
 
 ## ML Algos
 ![cheatsheat](./assets/algos.png)
