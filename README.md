@@ -7,6 +7,7 @@
 - LinearRegressor
 - Neural Networks
 - Random Forest
+- Neural Networks
 
 ### List of Pre-Processing Algorithms
 TODO:
