@@ -8,6 +8,7 @@
 - Neural Networks
 - Random Forest
 - Neural Networks
+- Naive Baiyes
 
 ### List of Pre-Processing Algorithms
 TODO:
