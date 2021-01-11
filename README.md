@@ -10,7 +10,7 @@
 - Neural Networks
 - Naive Baiyes
 - Support Vector machines
--
+- XGBoost
 
 ### List of Pre-Processing Algorithms
 TODO:
