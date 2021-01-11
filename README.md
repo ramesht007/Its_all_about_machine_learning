@@ -9,6 +9,8 @@
 - Random Forest
 - Neural Networks
 - Naive Baiyes
+- Support Vector machines
+-
 
 ### List of Pre-Processing Algorithms
 TODO:
